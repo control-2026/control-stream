@@ -1,0 +1,13 @@
+{
+  "accounts": [],
+  "providers": [],
+  "evolutionConfig": {
+    "apiUrl": "",
+    "apiKey": "",
+    "instanceName": "",
+    "autoNotifyEnabled": true,
+    "autoSendDaysBefore": 2,
+    "messageTemplate": "👋 Hola *{cliente}*, te saludamos de *MTC PROVEEDORES DE CUENTAS*.\n\n⏳ Te recordamos que tu suscripción de *{servicio}* está próxima a vencer en *{dias_restantes}* (Fecha de corte: *{fecha_vencimiento}*).\n\n📌 *Detalles de tu cuenta:*\n📧 Correo: {correo}\n👤 Perfil: {perfil}\n🔑 PIN: {pin}\n💰 Renovación: {precio}\n\n💳 Para renovar y mantener tu pantalla sin interrupciones, responde a este mensaje. ¡Muchas gracias por tu preferencia!"
+  },
+  "notificationLogs": []
+}

@@ -1,0 +1,6 @@
+{
+  "name": "MTC PROVEEDORES DE CUENTAS",
+  "description": "Sistema de gestión y control de cuentas de streaming (Disney+, YouTube Premium, Netflix, etc.) con altas, vencimientos, proveedores, métodos de pago y avisos automáticos de vencimiento a 2 días por WhatsApp con Evolution API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
